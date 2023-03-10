@@ -73,5 +73,4 @@ public class SportStatistics {
         }
         return losses;
     }
-
 }
